@@ -16,36 +16,19 @@ EDUCATION = [
     {
         "degree": "Bachelor's in Electronics",
         "institution": "Thakur College of Engineering and Technology",
-        "period": "2018-2021"
-    }
-    # {
-    #     "diploma": ""
-    # }
+        "period": "2018-2021",
+        "description": "Data engineer specializing in IoT data analytics, real-time telemetry processing, and sensor-driven insights. Experienced in working with MQTT streams, time-series data, and automation workflows to build dashboards, predictive models, and analytical solutions that improve operational efficiency and equipment performance."
+    } 
 ]
 
-CERTIFICATIONS = [
-    # "Snowflake Platform Training - Pulic GXC",
-    # "AI Security Certification",
-    # "Executive Post Graduation Certification in Cloud Computing",
-    # "Data Bricks Data Engineer Professional",
-    # "Databricks Certified Data Engineer Associate",
-    # "Academy Accreditation - Databricks Lakehouse Fundamentals",
-    # "Google Cloud Professional Data Engineer: Get Certified 2022",
-    # " Azure Databricks & Spark Core For Data Engineers(Python/SQL)",
-    # " Apache Airflow using Google Cloud Composer: Introduction",
-    # " DP-100: A-Z Machine Learning using Azure Machine Learning",
-    # "Microsoft Certified: Azure Data Scientist Associate", 
-    # "Neural Networks and Deep Learning" 
+CERTIFICATIONS = [    
     "Data Analysis with Python",
     "SQL (Basic)",
     "SQL (Intermediate)"
 ]
 
 SKILLS = {
-    "Programming Languages": ["Python", "SQL", "JavaScript", "Node.js", "Bash"],
-    # "Machine Learning & AI": ["Scikit-learn", "TensorFlow", "PyTorch", "Keras", "XGBoost", "Pandas", "NumPy"],
-    # "Data Visualization": ["Tableau", "Power BI", "Plotly", "Matplotlib", "Seaborn", "D3.js"],
-    # "Cloud & Big Data": ["AWS", "Azure", "Google Cloud", "Apache Spark", "Hadoop", "Docker", "Kubernetes"]
+    "Programming Languages": ["Python", "SQL", "JavaScript", "Node.js", "Bash"], 
     "Libraries & Frameworks": ["Express", "Pandas", "Numpy"],
     "Tools / Platform": ["AWS", "Jira", "Confluence", "VS Code", "Postman", "Linux"],
     "Databases": ["MSSQL", "PostgreSQL", "MariaDB"]
@@ -66,17 +49,12 @@ PROJECTS = [
         "title": "Electricity and Water consumption bill",
         "technologies": "Javascript | Node-red | SQL",
         "description": "Captured real-time data from MQTT streams sent by energy and water meters, performed usage analysis and generated predictive utility bills for electricity and water consumptions."
-    },
-    # {
-    #     "title": "Recommendation Engine for E-commerce",
-    #     "technologies": "Machine Learning | Python | Apache Spark",
-    #     "description": "Developed a collaborative filtering recommendation system that suggests products to users based on their browsing history and purchase patterns. The system increased click-through rates by 40% and improved user engagement significantly."
-    # }
+    }
 ]
 
 STATS = {
     "experience": "2.5",
-    # "projects": "15+",
+    "projects": "15+",
     "certifications": "3",
-    # "satisfaction": "100%"
+    "satisfaction": "100%"
 }
